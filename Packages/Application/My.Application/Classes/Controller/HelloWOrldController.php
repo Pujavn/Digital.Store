@@ -13,7 +13,7 @@ namespace My\Application\Classes\Controller;
  *
  * @author sumit
  */
-class HelloWOrld {
+class HelloWOrldController {
 
 	/**
 	 * Index action
