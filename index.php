@@ -1,3 +1,8 @@
+<?php
+	
+require_once"Packages/Framework/CloudFrame/Scripts/CloudFrame.php";
+
+?>
 <!DOCTYPE html>
 <html>
 <head>
